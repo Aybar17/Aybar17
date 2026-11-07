@@ -1,0 +1,6 @@
+# Mediciones e informes personales: no se suben (el repositorio es público)
+datos/
+*.csv
+informe*.html
+informe*.pdf
+__pycache__/
